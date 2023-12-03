@@ -1,1 +1,1 @@
-# https://Uluwa.github.io/rsschool-cv/cv
+https://Uluwa.github.io/rsschool-cv/

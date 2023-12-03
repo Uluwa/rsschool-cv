@@ -23,8 +23,8 @@
 ## **Code Example**
 
 ```
-var number=function(array){
-  return array.map((el,i) => `${i+1}: ${el}`)
+function sum(a,b){
+return a + b 
 }
 ```
 ---

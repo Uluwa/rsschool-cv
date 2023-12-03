@@ -1,7 +1,7 @@
 [rsschool-cv](https://uluwa.github.io/rsschool-cv/cv)
 
 # **Ulugbek Kholmuminov**
----
+--- 
 ## **Contacts** 
 - **Location:** Tashkent, Uzbekistan
 - **Telegramm** [@InDaTash](https://web.telegram.org/k/#@InDaTash)
